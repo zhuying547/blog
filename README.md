@@ -9,4 +9,5 @@
 [git](https://github.com/zhuying547/hello-world/issues/2)
 
 ## 前端开发
-`.gitignore` 文件内容
+[`.gitignore` 文件内容](https://github.com/zhuying547/blog/issues/4)
+
