@@ -1,4 +1,4 @@
-# hello-world
+# blog
 
 用于记录实用工具的一般配置和前端应用开发中的常用代码片段。
 
@@ -9,4 +9,4 @@
 - [git](https://github.com/zhuying547/hello-world/issues/2)
 
 ## 前端开发
-
+`.gitignore` 文件内容
