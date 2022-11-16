@@ -6,7 +6,7 @@
 
 ## 实用工具配置
 
-- [git](https://github.com/zhuying547/hello-world/issues/2)
+[git](https://github.com/zhuying547/hello-world/issues/2)
 
 ## 前端开发
 `.gitignore` 文件内容
